@@ -1,4 +1,4 @@
---loadstring(game:HttpGet("https://raw.githubusercontent.com/Knaro009/PBSGUI/main/Obfuscated.lua", true))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/Knaro009/SirenHeadRebirthGui/main/GUI.lua", true))()
 --Credits to Aztup for Aztup ui.
 --Siren Head Rebirth by BloxyColaThief
 --My scripts have many broken parts so ignore them please. I have not tested the GUI much at all.
